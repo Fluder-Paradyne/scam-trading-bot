@@ -7,3 +7,5 @@ This exe seems like a bait, it does nothing, will ask for couple of input and fa
 maybe to get the victim to pay for the "full version" or like a interactive scam.
 
 So far have not found any exfltration code. still searching for it.
+
+used : https://github.com/zrax/pycdc for decompiling the exe
